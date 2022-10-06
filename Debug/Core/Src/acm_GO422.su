@@ -1,0 +1,10 @@
+../Core/Src/acm_GO422.c:38:18:init	24	static
+../Core/Src/acm_GO422.c:90:6:can_buffer_handling_loop	8	static
+../Core/Src/acm_GO422.c:102:5:valid_data_channel	24	static
+../Core/Src/acm_GO422.c:116:5:calculate_rear_wing_angle	16	static
+../Core/Src/acm_GO422.c:142:5:calculate_front_wing_angle	16	static
+../Core/Src/acm_GO422.c:166:5:determine_wing_angle	24	static
+../Core/Src/acm_GO422.c:180:5:drs_button	16	static
+../Core/Src/acm_GO422.c:198:5:aa_button	16	static
+../Core/Src/acm_GO422.c:216:6:parameter_request	16	static
+../Core/Src/acm_GO422.c:224:6:PWM_generation	16	static
